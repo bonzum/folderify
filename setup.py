@@ -1,7 +1,7 @@
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
 from os import path
-
+Author:Mark legend 
 # Get the long description from the relevant file
 with open("README.md") as f:
     long_description = f.read()
